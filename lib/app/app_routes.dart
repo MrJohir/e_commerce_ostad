@@ -1,6 +1,5 @@
-import 'package:e_commerce_ostad/feature/auth/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
+import '../feature/auth/ui/screens/splash_screen.dart';
 
 class AppRoutes {
   static Route<dynamic> onGenerateRoute(RouteSettings settings) {
